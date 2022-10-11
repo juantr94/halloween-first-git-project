@@ -10,6 +10,21 @@ html {
     margin: 0;
 }
 
+h1 {
+    height: 5rem;
+    width: 20%;
+    border-style: dotted;
+    position: relative;
+    left: 40%;
+    top:5rem;
+    margin-bottom: 10rem;
+    border-color: greenyellow;
+    color: lawngreen;
+    font-size: 4rem;
+    text-align: center;
+    font-family: monospace;
+}
+
 .container {
     display: flex;
     width: 100%;
