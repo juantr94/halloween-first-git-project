@@ -52,3 +52,14 @@ h1 {
 .container2 img{
     width:20%;
 }
+
+footer {
+    width: 60%;
+    position: absolute;
+    left: 20%;
+    bottom: 0%;
+    font-size: 4rem;
+    text-align: center;
+    background-color: orangered;
+
+}
