@@ -11,8 +11,8 @@ html {
 }
 
 h1 {
-    height: 5rem;
-    width: 20%;
+    height:fit-content;
+    width: fit-content;
     border-style: dotted;
     position: relative;
     left: 40%;
@@ -20,7 +20,7 @@ h1 {
     margin-bottom: 10rem;
     border-color: greenyellow;
     color: lawngreen;
-    font-size: 4rem;
+    font-size: 7rem;
     text-align: center;
     font-family: monospace;
 }
